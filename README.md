@@ -6,14 +6,7 @@ Este repositorio contiene el código de una aplicación web para el desafío de 
 
 ## 🚀 **Demo**
 
-Puedes probar la aplicación en el siguiente enlace:  
-[**GitHub Pages**](#).
-
----
-
-## 📸 **Capturas de pantalla**
-
-¡Pronto habrá una vista previa disponible!
+Puedes probar la aplicación en el siguiente enlace:  [**GitHub Pages**](#).
 
 ---
 
